@@ -5,9 +5,6 @@ require 'functions.php';
 
 if (isset($_POST['name'], $_POST['phone'])) {
 
-	$subject = 'Новая заявка от Sidra'; // Subject of your email
-	$to = 'fard40@mail.ru issayev.adilet@gmail.com';  //Recipient's E-mail
-
 	$name = clear_data($_POST['name']);
 	$phone = clear_data($_POST['phone']);
 
@@ -22,6 +19,9 @@ if (isset($_POST['name'], $_POST['phone'])) {
         header('Location: ' . $_SERVER['HTTP_REFERER']);
         die();
     }
+
+    $subject = 'Sidra - Новая заявка от '.$name;
+    $to = 'fard40@mail.ru issayev.adilet@gmail.com';  //Recipient's E-mail
 
 	$message = '<b>Имя : ' . $name . "</b><br>";
 	$message .= '<b>Номер : ' . $phone . "</b><br>";

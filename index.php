@@ -61,7 +61,7 @@
             <div class="row header-main-content">
               <div class="col-sm-6">
                 <h3 class="heading primary-color text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
-                <p class="primary-color fz-24 lh-26">Уникальный рецепт полового здоровья для мужчин и женщин</p>
+                <p class="primary-color fz-18 lh-22">Уникальный рецепт полового здоровья для мужчин и женщин</p>
                 <h3 class="heading primary-color header-price fz-60 "> <!-- <s class="fz-50 red">7100〒</s> --> 5900〒</h3>
               </div>
               <div class="col-sm-6">
