@@ -105,7 +105,7 @@
         <div class="container">
           <div class="row">
             <div class="offset-sm-1 col-sm-5">
-              <img src="/images/sidra/spoon-epimedyum.jpg"  class="img-responsive rounded" alt="" />
+              <img src="/images/sidra/spoon-epimedyum-text.jpg"  class="img-responsive rounded" alt="" />
             </div>
             <div class="col-sm-5">
               <h4 class="fw-normal mt-5 lh-30 fz-22">Компания «SapaLife» Официальный дилер SIDRA GIDA SANAYI TIC. LTD c торговой маркой «Sidra»  предлагает уникальный рецепт полового здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи.</h4>

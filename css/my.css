@@ -1,165 +1,170 @@
 .bg-header {
-	background-image: url(../images/sidra/bg-header.png);
-	background-repeat: no-repeat;
-	background-position: top center;
+  background-image: url(../images/sidra/bg-header.png);
+  background-repeat: no-repeat;
+  background-position: top center;
 }
 .bg-green {
-	background-color: #1b6736;
+  background-color: #1b6736;
 }
 .red {
-	color: #CE0A00;
+  color: #CE0A00;
 }
 .yellow {
-	color: #ffed00;
+  color: #ffed00;
 }
 .header-main-content {
-	padding: 100px 0 220px;
+  padding: 100px 0 220px;
 }
 .section-custom-padding {
-	 padding: 80px 0;
+   padding: 80px 0;
 }
 .section-about {
-	padding: 80px 0 60px;
+  padding: 80px 0 60px;
 }
 .section-bg-man {
-	background-color: rgb(21,14,25);
-	background-image: url(../images/sidra/sidra-man.jpg);
-	background-repeat: no-repeat;
-	background-position: center right;
-	background-size: 90%;
+  background-color: rgb(21,14,25);
+  background-image: url(../images/sidra/sidra-man.jpg);
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: 90%;
 }
 .section-bg-man > div > .row {
-	background: rgb(21,14,25);
-	background: linear-gradient(90deg, rgba(21,14,25,0.8827906162464986) 0%, rgba(50,24,68,0.8883928571428571) 40%, rgba(218,59,0,0) 90%);
+  background: rgb(21,14,25);
+  background: linear-gradient(90deg, rgba(21,14,25,0.8827906162464986) 0%, rgba(50,24,68,0.8883928571428571) 40%, rgba(218,59,0,0) 90%);
 }
 .section-bg-woman {
-	background-image: url(../images/sidra/flowers.jpg);
-	background-repeat: no-repeat;
-	background-position: top left;
-	background-size: 90%;
+  background-image: url(../images/sidra/flowers.jpg);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: 90%;
 }
 .section-bg-woman > div > .row {
-	background: rgb(255,255,255);
-	background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.9136029411764706) 50%, rgba(255,255,255,0.04805672268907568) 90%);
+  background: rgb(255,255,255);
+  background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0.9136029411764706) 50%, rgba(255,255,255,0.04805672268907568) 90%);
 }
 .header-title {
-	font-size: 73px;
-	text-shadow: 1px 1px 15px #fff;
-	letter-spacing: 0px;
+  font-size: 73px;
+  text-shadow: 1px 1px 15px #fff;
+  letter-spacing: 0px;
 }
 .header-price {
-	text-shadow: 1px 1px 15px #fff;
-	font-family: 'Roboto';
-	font-weight: 700;
+  text-shadow: 1px 1px 15px #fff;
+  font-family: 'Roboto';
+  font-weight: 700;
 }
 .paste-bank {
-	position: absolute;
-	top: -10%;
-	right: 0;
+  position: absolute;
+  top: -10%;
+  right: 0;
 }
 .made-in-turkey {
-	position: absolute;
-	bottom: 70px;
-	left: -30px;
+  position: absolute;
+  bottom: 70px;
+  left: -30px;
 }
 .phones {
-	max-width: 240px;
-	text-align: center;
-	margin: 20px 0 0 auto;
+  max-width: 240px;
+  text-align: center;
+  margin: 20px 0 0 auto;
 }
 .phones a {
-	max-width: 240px;
-	color: #1b6736;
-	font-size: 20px;
-	font-weight: bold;
-	display: block;
-	margin-bottom: 10px;
-	padding: 5px;
-	background-color: #fff;
-	border-radius: 50px;
-	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  max-width: 240px;
+  color: #1b6736;
+  font-size: 20px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 .phones > a > i {
-	font-size: 24px;
+  font-size: 24px;
 }
 .price-of-paste {
-	margin-top: 120px;
+  margin-top: 120px;
 }
 .box-section-shadow {
-	border: 1px solid #eeeeee;
+  border: 1px solid #eeeeee;
     -moz-box-shadow: 0 0 30px rgba(170, 170, 170, 0.2);
     -webkit-box-shadow: 0 0 30px rgba(170, 170, 170, 0.2);
     box-shadow: 0 0 30px rgba(170, 170, 170, 0.2);
 }
 
 @media (max-width: 768px) {
-	.branding__logo > a {
-		display: block;
-		text-align: center;
-	}
-	.branding__logo > a > img {margin: 20px 0; }
-	.branding__logo > h3 {text-align: center; }
-	.phones {margin: 20px auto; }
-	.header-main-content {
-		padding: 20px 0 20px;
-		text-align: center;
-	}
-	.header-title {font-size: 36px; }
-	.header-price > s {display: none; }
-	.made-in-turkey {display: none; }
-	.section-custom-padding {
-		padding: 40px 0;
-	}
-	.section-about {padding: 140px 0 60px; }
+  .branding__logo > a {
+    display: block;
+    text-align: center;
+  }
+  .branding__logo > a > img {margin: 20px 0; }
+  .branding__logo > h3 {text-align: center; }
+  .phones {margin: 20px auto; }
+  .header-main-content {
+    padding: 20px 0 20px;
+    text-align: center;
+  }
+  .header-title {font-size: 36px; }
+  .header-price > s {display: none; }
+  .made-in-turkey {
+      bottom: -110px;
+      left: 180px;
+  }
+  .section-custom-padding {
+    padding: 40px 0;
+  }
+  .section-about {padding: 140px 0 60px; }
 
-	.section-bg-man {
-		background-image: url(../images/sidra/sidra-man-mobile.jpg);
-		background-position: center left;
-		background-size: 150%;
-	}
-	.section-bg-woman {
-		background-image: url(../images/sidra/flowers-mobile.jpg);
-		background-position:  center right;
-		background-size: 150%;
-	}
-	.price-of-paste {
-		margin-top: 60px;
-	}
+  .section-bg-man {
+    background-image: url(../images/sidra/sidra-man-mobile.jpg);
+    background-position: center left;
+    background-size: 150%;
+  }
+  .section-bg-woman {
+    background-image: url(../images/sidra/flowers-mobile.jpg);
+    background-position:  center right;
+    background-size: 150%;
+  }
+  .price-of-paste {
+    margin-top: 60px;
+  }
 }
-
 @media (max-width: 479px) {
-	.branding__logo > a {
-		display: block;
-		text-align: center;
-	}
-	.branding__logo > a > img {margin: 20px 0; }
-	.branding__logo > h3 {text-align: center; }
-	.phones {margin: 20px auto; }
-	.header-main-content {
-		padding: 20px 0 20px;
-		text-align: center;
-	}
-	.header-title {font-size: 36px; }
-	.header-price > s {display: none; }
-	.made-in-turkey {display: none; }
-	.section-custom-padding {
-		padding: 40px 0;
-	}
-	.section-about {padding: 340px 0 60px; }
+  .branding__logo > a {
+    display: block;
+    text-align: center;
+  }
+  .branding__logo > a > img {margin: 20px 0; }
+  .branding__logo > h3 {text-align: center; }
+  .phones {margin: 20px auto; }
+  .header-main-content {
+    padding: 20px 0 20px;
+    text-align: center;
+  }
+  .header-title {font-size: 36px; }
+  .header-price > s {display: none; }
+  .made-in-turkey {
+      bottom: -340px;
+      left: 50%;
+  }
+  .section-custom-padding {
+    padding: 40px 0;
+  }
+  .section-about { padding: 340px 0 60px; }
 
-	.section-bg-man {
-		background-image: url(../images/sidra/sidra-man-mobile.jpg);
-		background-position: center 300px;
-		background-size: 150%;
-	}
-	.section-bg-woman {
-		background-image: url(../images/sidra/flowers-mobile.jpg);
-		background-position:  center 300px;
-		background-size: 200%;
-	}
-	.price-of-paste {
-		margin-top: 60px;
-	}
+  .section-bg-man {
+    background-image: url(../images/sidra/sidra-man-mobile.jpg);
+    background-position: center 300px;
+    background-size: 150%;
+  }
+  .section-bg-woman {
+    background-image: url(../images/sidra/flowers-mobile.jpg);
+    background-position:  center 300px;
+    background-size: 200%;
+  }
+  .price-of-paste {
+    margin-top: 60px;
+  }
   .order-xs-1 {
     -ms-flex-order:1;
     order:1
@@ -194,8 +199,8 @@
   }
   .fixed-button a,
   .fixed-button2 a {
-  	width: 50px;
-  	height: 50px;
+    width: 50px;
+    height: 50px;
     display: block;
     text-align: center;
     padding: 10px;
