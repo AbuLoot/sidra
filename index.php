@@ -43,7 +43,7 @@
         <div class="section">
           <div class="container">
             <div class="row">
-              <div class="col-sm-6">
+              <div class="col-sm-4">
                 <div class="branding__logo">
                   <a href="/">
                     <img src="/images/sidra/logo.png" alt="Sidra" class="main-logo">
@@ -51,7 +51,13 @@
                   <h3 class="heading small fz-24 dark"> 100% Натуральный продукт</h3>
                 </div>
               </div>
-              <div class="col-sm-6">
+              <div class="col-sm-4">
+                <div class="text-center mt-2">
+                  <a href="#wholesalers" class="text-uppercase"><u>Оптовикам</u></a>
+                  Лучшие цены
+                </div>
+              </div>
+              <div class="col-sm-4">
                 <div class="phones">
                   <a href="tel:+77759557171" target="_top" data-attr="phone"><i class="fa fa-phone"></i> 8 (775) 955 71 71</a>
                   <a href="whatsapp://send?phone=+77759557171" target="_top" data-attr="whatsapp_call"><i class="fa fa-whatsapp"></i> 8 (775) 955 71 71</a>
@@ -62,7 +68,7 @@
               <div class="col-sm-6">
                 <h3 class="heading primary-color text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
                 <p class="primary-color fz-18 lh-22">Уникальный рецепт полового здоровья для мужчин и женщин</p>
-                <h3 class="heading primary-color header-price fz-60 "> <!-- <s class="fz-50 red">7100〒</s> --> 5900〒</h3>
+                <h3 class="heading primary-color header-price fz-60 "> <s class="fz-50 red">5900〒</s> 4900〒</h3>
               </div>
               <div class="col-sm-6">
                 <img src="/images/sidra/paste-bank.png" class="paste-bank">
@@ -721,14 +727,14 @@
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Лучшая Цена</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Оригинальный продукт</span></li>
               </ul> -->
-              <h2>5900〒</h2>
+              <div class="fz-38 fw-bold dark">4900〒</div>
             </div>
           </div>
         </div>
       </section>
 
       <!-- DELIVERY & WHOLESALERS -->
-      <section class="section box-section-shadow section-custom-padding">
+      <section class="section box-section-shadow section-custom-padding" id="wholesalers">
         <div class="container">
           <div class="row">
             <div class="col-sm-12 col-lg-6">
@@ -738,8 +744,8 @@
             </div>
             <div class="col-sm-12 col-lg-6">
               <h3 class="heading fw-normal mt-3 mb-3 text-center">Оптовикам</h3>
-              <p>Торговая компания SapaLife специализируется на продаже высококачественных, натуральных продуктов потребления из Казахстана, Турции и Узбекистана.</p>
-              <p>Основным направлением компании является розничные и оптовые продажи препаратов для здоровья, спортивного питания, натуральной пищи, ароматов.</p>
+              <p>Торговая компания SapaLife специализируется на продаже высококачественных, натуральных продуктов потребления из Казахстана, Турции.</p>
+              <p>Основным направлением компании является оптовые и розничные продажи препаратов для здоровья, спортивного питания, натуральной пищи, ароматов.</p>
               <p>Приглашаем сотрудничать с нами по регионам. Предлагаем выгодные условия. Обращайтесь к нам и мы ответим на все интересующие вас вопросы.</p>
             </div>
           </div>
