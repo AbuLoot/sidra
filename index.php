@@ -349,7 +349,7 @@
           <div class="row">
             <div class="col-sm-12">
               <div class="text-center">
-                <h3 class="heading fw-normal fz-40">Эпимедиумная паста</h3>
+                <h3 class="heading fw-normal fz-40">Экстракт травы Эпимедиума</h3>
                 <div class="mb-8"></div>
               </div>
             </div>
