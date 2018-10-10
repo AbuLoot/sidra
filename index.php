@@ -52,7 +52,7 @@
                 </div>
               </div>
               <div class="col-sm-4">
-                <div class="text-center mt-2">
+                <div class="text-center dark mt-2">
                   <a href="#wholesalers" class="text-uppercase"><u>Оптовикам</u></a>
                   Лучшие цены
                 </div>
