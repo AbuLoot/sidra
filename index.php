@@ -68,7 +68,7 @@
               <div class="col-sm-6">
                 <h3 class="heading primary-color text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
                 <p class="primary-color fz-18 lh-22">Уникальный рецепт полового здоровья для мужчин и женщин</p>
-                <h3 class="heading primary-color header-price fz-60 "> <s class="fz-50 red">5900〒</s> 4900〒</h3>
+                <h3 class="heading primary-color header-price fz-60 "> <s class="fz-50 red">6900〒</s> 5900〒</h3>
               </div>
               <div class="col-sm-6">
                 <img src="/images/sidra/paste-bank.png" class="paste-bank">
@@ -727,7 +727,7 @@
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Лучшая Цена</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Оригинальный продукт</span></li>
               </ul> -->
-              <div class="fz-38 fw-bold dark">4900〒</div>
+              <div class="fz-38 fw-bold dark">5900〒</div>
             </div>
           </div>
         </div>
