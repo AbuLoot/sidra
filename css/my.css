@@ -1,5 +1,6 @@
 .bg-header {
-  background-image: url(../images/sidra/bg-header.png);
+  /*background-image: url(../images/sidra/bg-header.png);*/
+  background-image: url(../images/sidra/background-1900.jpg);
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -44,11 +45,11 @@
 }
 .header-title {
   font-size: 73px;
-  text-shadow: 1px 1px 15px #fff;
+  text-shadow: 1px 1px 15px #15270e;
   letter-spacing: 0px;
 }
 .header-price {
-  text-shadow: 1px 1px 15px #fff;
+  text-shadow: 1px 1px 15px #15270e;
   font-family: 'Roboto';
   font-weight: 700;
 }
@@ -163,7 +164,7 @@
     background-size: 200%;
   }
   .price-of-paste {
-    margin-top: 60px;
+    /*margin-top: 60px;*/
   }
   .order-xs-1 {
     -ms-flex-order:1;

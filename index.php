@@ -52,10 +52,10 @@
                 </div>
               </div>
               <div class="col-sm-4">
-                <div class="text-center dark mt-2">
+                <!-- <div class="text-center dark mt-2">
                   <a href="#wholesalers" class="text-uppercase"><u>Оптовикам</u></a>
                   Лучшие цены
-                </div>
+                </div> -->
               </div>
               <div class="col-sm-4">
                 <div class="phones">
@@ -66,9 +66,9 @@
             </div>
             <div class="row header-main-content">
               <div class="col-sm-6">
-                <h3 class="heading primary-color text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
-                <p class="primary-color fz-18 lh-22">Уникальный рецепт полового здоровья для мужчин и женщин</p>
-                <h3 class="heading primary-color header-price fz-60 "> <s class="fz-50 red">6900〒</s> 5900〒</h3>
+                <h3 class="heading white text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
+                <p class="white fz-20 lh-22" style="text-shadow: 1px 1px 15px #15270e;">Уникальный рецепт полового здоровья для мужчин и женщин</p>
+                <h3 class="heading white header-price fz-60 "> <!-- <s class="fz-50 red">6900〒</s> --> 5900〒</h3>
               </div>
               <div class="col-sm-6">
                 <img src="/images/sidra/paste-bank.png" class="paste-bank">
@@ -711,23 +711,23 @@
       </section>
 
       <!-- PRICE -->
-      <section class="section box-section-shadow section-custom-padding">
+      <section class="section bg-green section-custom-padding">
         <div class="container">
           <div class="row">
-            <div class="col-sm-12 col-md-4 offset-sm-1">
-              <img src="/images/sidra/box-epimedyum-2.jpg">
+            <div class="col-sm-12 col-md-6">
+              <img src="/images/sidra/paste-bank-with-shadow.png">
             </div>
             <div class="col-sm-12 col-md-4">
-              <h2 class="price-of-paste">Цена</h2>
-              <p class="dark">Благодаря тому что Мы являемся официальным дилером Компании SIDRA GIDA SANAYI TIC. LTD, Мы предлагаем лучшую цену.</p>
-              <h4>Эпимедиумная паста «Sidra»</h4>
+              <h2 class="price-of-paste white">Цена</h2>
+              <p class="white">Благодаря тому что Мы являемся официальным дилером Компании SIDRA GIDA SANAYI TIC. LTD, Мы предлагаем лучшую цену.</p>
+              <h4 class="white">Эпимедиумная паста «Sidra»</h4>
               <!-- <ul class="pricing-list">
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Консультация</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Доставка во все регионы</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Лучшая Цена</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Оригинальный продукт</span></li>
               </ul> -->
-              <div class="fz-38 fw-bold dark">5900〒</div>
+              <div class="fz-38 fw-bold white">5900〒</div>
             </div>
           </div>
         </div>
