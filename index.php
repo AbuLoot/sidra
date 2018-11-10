@@ -221,6 +221,10 @@
                     </ul>
                   </div>
                 </div>
+
+                <div class="text-center-">
+                  <a href="#" class="btn-app mt-2" data-toggle="modal" data-target="#appModal">Заказать сейчас</a>
+                </div>
               </div>
             </div>
           </div>
@@ -335,6 +339,10 @@
                         </div>
                       </li>
                     </ul>
+                  </div>
+
+                  <div class="text-center">
+                    <a href="#" class="btn-app mt-2" data-toggle="modal" data-target="#appModal">Заказать сейчас</a>
                   </div>
                 </div>
               </div>
@@ -728,6 +736,10 @@
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Оригинальный продукт</span></li>
               </ul> -->
               <div class="fz-38 fw-bold white">5900〒</div>
+
+                <div class="text-center-">
+                  <a href="#" class="btn-app mt-2" data-toggle="modal" data-target="#appModal">Заказать сейчас</a>
+                </div>
             </div>
           </div>
         </div>
@@ -751,6 +763,44 @@
           </div>
         </div>
       </section>
+
+      <!-- APP MODAL -->
+      <div class="modal fade" id="appModal" tabindex="-1" role="dialog" aria-labelledby="appModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="appModalLabel"><i class="fa fa-envelope-o primary-color fz-30"></i></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body row p-0">
+              <div class="col-lg-6 p-5">
+                <h3 class="heading fw-normal fz-32 mb-1">Заполните форму</h3>
+                <p class="fz-20 dark mb-1">и наш менеджер свяжется с Вами в ближайшее время</p>
+                <div class="contact-form-wrapper">
+                  <form method="post" action="sendmail.php">
+                    <div class="row">
+                      <div class="col-md-12"> 
+                        <input type="text" name="name" placeholder="Введите имя*" minlength="2" maxlength="40" value="" required>
+                      </div>
+                      <div class="col-md-12">
+                        <input type="tel" name="phone" placeholder="Введите номер телефона*" minlength="5" maxlength="20" value="" required>
+                      </div>
+                      <div class="col-md-12">
+                        <button type="submit" class="btn-app mt-3" data-toggle="modal" data-target="#appModal">Отправить</button>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <img src="images/sidra/bank.png" class="d-block modal-bank-margin mx-auto">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <!-- FAQ -->
       <section class="section pt-10 pb-6">
@@ -905,8 +955,6 @@
       </div>
     </footer>
   </div>
-
-  <!-- <a id="backtotop" class="scrollup scrollup--fixed"><i class="fa fa-angle-up"></i></a> -->
 
   <!-- Yandex.Metrika informer -->
   <a href="https://metrika.yandex.kz/stat/?id=50420026&amp;from=informer"

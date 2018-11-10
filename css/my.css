@@ -84,13 +84,57 @@
   font-size: 24px;
 }
 .price-of-paste {
-  margin-top: 120px;
+  margin-top: 60px;
 }
 .box-section-shadow {
   border: 1px solid #eeeeee;
     -moz-box-shadow: 0 0 30px rgba(170, 170, 170, 0.2);
     -webkit-box-shadow: 0 0 30px rgba(170, 170, 170, 0.2);
     box-shadow: 0 0 30px rgba(170, 170, 170, 0.2);
+}
+
+
+/* Buttons */
+.btn-app {
+  -moz-box-shadow: 0px 10px 14px -7px #3e7327;
+  -webkit-box-shadow: 0px 10px 14px -7px #3e7327;
+  box-shadow: 0px 10px 14px -7px #3e7327;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #45deb0), color-stop(1, #1b6736));
+  background:-moz-linear-gradient(top, #45deb0 5%, #1b6736 100%);
+  background:-webkit-linear-gradient(top, #45deb0 5%, #1b6736 100%);
+  background:-o-linear-gradient(top, #45deb0 5%, #1b6736 100%);
+  background:-ms-linear-gradient(top, #45deb0 5%, #1b6736 100%);
+  background:linear-gradient(to bottom, #45deb0 5%, #1b6736 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#45deb0', endColorstr='#1b6736',GradientType=0);
+  background-color:#01a107;
+  -moz-border-radius:40px;
+  -webkit-border-radius:40px;
+  border-radius:40px;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:22px;
+  font-weight:bold;
+  padding:13px 32px;
+  text-shadow:0px 1px 0px #5b8a3c;
+}
+.btn-app:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #1b6736), color-stop(1, #45deb0));
+  background:-moz-linear-gradient(top, #1b6736 5%, #45deb0 100%);
+  background:-webkit-linear-gradient(top, #1b6736 5%, #45deb0 100%);
+  background:-o-linear-gradient(top, #1b6736 5%, #45deb0 100%);
+  background:-ms-linear-gradient(top, #1b6736 5%, #45deb0 100%);
+  background:linear-gradient(to bottom, #1b6736 5%, #45deb0 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1b6736', endColorstr='#45deb0',GradientType=0);
+  background-color:#1b6736;
+  color:#ffffff;
+}
+.btn-app:active {
+  position:relative;
+  top:1px;
+}
+.modal-bank-margin {
+  margin-top: 100px;
 }
 
 @media (max-width: 768px) {
@@ -127,7 +171,7 @@
     background-size: 150%;
   }
   .price-of-paste {
-    margin-top: 60px;
+    margin-top: 30px;
   }
 }
 @media (max-width: 479px) {
@@ -152,7 +196,9 @@
     padding: 40px 0;
   }
   .section-about { padding: 340px 0 60px; }
-
+  .modal-bank-margin {
+    margin-top: 30px;
+  }
   .section-bg-man {
     background-image: url(../images/sidra/sidra-man-mobile.jpg);
     background-position: center 300px;
@@ -162,9 +208,6 @@
     background-image: url(../images/sidra/flowers-mobile.jpg);
     background-position:  center 300px;
     background-size: 200%;
-  }
-  .price-of-paste {
-    /*margin-top: 60px;*/
   }
   .order-xs-1 {
     -ms-flex-order:1;

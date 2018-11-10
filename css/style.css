@@ -2270,7 +2270,7 @@ h6, .h6 {
 
 /* === 2.3. SECTION === */
 .section {
-	position: relative;
+	/*position: relative;*/
 	width: 100%;
 	z-index: 1;
 }
@@ -8061,7 +8061,7 @@ table.shop-cart tbody tr td.actions input {
 }
 @media only screen and (min-width: 1024px) {
 	#main {
-		position: relative;
+		/*position: relative;*/
 		z-index: 3;
 		background: #fff;
 	}
