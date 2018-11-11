@@ -68,11 +68,11 @@
               <div class="col-sm-6">
                 <h3 class="heading white text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
                 <p class="white fz-20 lh-22" style="text-shadow: 1px 1px 15px #15270e;">Уникальный рецепт полового здоровья для мужчин и женщин</p>
-                <h3 class="heading white header-price fz-60 "> <!-- <s class="fz-50 red">6900〒</s> --> 5900〒</h3>
+                <h3 class="heading white header-price fz-60 "> <!-- <s class="fz-50 red">6900〒</s> --> &nbsp;</h3>
               </div>
               <div class="col-sm-6">
                 <img src="/images/sidra/paste-bank.png" class="paste-bank">
-                <img src="/images/sidra/made-in-turkey.png" class="made-in-turkey">
+                <img src="/images/sidra/made-in-turkey2.png" class="made-in-turkey">
               </div>
             </div>
           </div>
