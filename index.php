@@ -7,6 +7,7 @@
   <link rel="shortcut icon" href="images/favicon.png"/>
   <title>Эпимедиумная паста Sidra, купить в Казахстане</title>
   <meta name="description" content="Эпимедиумная паста Sidra - чрезвычайно сильный афродизиак, повышающий либидо, и полностью состоящий из отборных трав и натуральных ингредиентов с высочайшей биологической ценностью для организма.">
+  <meta name="yandex-verification" content="ed10629800fc6bed" />
 
   <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all"/>
   <link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css" media="all" />
