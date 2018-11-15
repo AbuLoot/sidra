@@ -29,12 +29,12 @@
   <![endif]-->
 </head>
 <body>
-  <div class="noo-spinner">
+  <!-- <div class="noo-spinner">
     <div class="spinner">
       <div class="cube1"></div>
       <div class="cube2"></div>
     </div>
-  </div>
+  </div> -->
 
   <div class="site">
 
@@ -68,7 +68,7 @@
             <div class="row header-main-content">
               <div class="col-sm-6">
                 <h3 class="heading white text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
-                <p class="white fz-20 lh-22" style="text-shadow: 1px 1px 15px #15270e;">Уникальный рецепт полового здоровья для мужчин и женщин</p>
+                <p class="white fz-20 lh-22" style="text-shadow: 1px 1px 15px #15270e; font-weight: bold;">Уникальный рецепт половой силы и здоровья для мужчин и женщин</p>
                 <h3 class="heading white header-price fz-60 "> <!-- <s class="fz-50 red">6900〒</s> --> &nbsp;</h3>
               </div>
               <div class="col-sm-6">
@@ -115,7 +115,7 @@
               <img src="/images/sidra/spoon-epimedyum-text.jpg"  class="img-responsive rounded" alt="" />
             </div>
             <div class="col-sm-5">
-              <h4 class="fw-normal mt-5 lh-30 fz-22">Компания «SapaLife» Официальный дилер SIDRA GIDA SANAYI TIC. LTD c торговой маркой «Sidra»  предлагает уникальный рецепт полового здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи.</h4>
+              <h4 class="fw-normal mt-5 lh-30 fz-22">Компания «Biotic» Официальный дилер SIDRA GIDA SANAYI TIC. LTD c торговой маркой «Sidra»  предлагает уникальный рецепт полового здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи.</h4>
               <div class="mt-4"></div>
               <p class="dark">Чрезвычайно сильный афродизиак, повышающий либидо, и полностью состоящий из отборных трав и натуральных ингредиентов с высочайшей биологической ценностью для организма.</p>
             </div>
@@ -224,7 +224,7 @@
                 </div>
 
                 <div class="text-center-">
-                  <a href="#" class="btn-app mt-2" data-toggle="modal" data-target="#appModal">Заказать сейчас</a>
+                  <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
                 </div>
               </div>
             </div>
@@ -343,7 +343,7 @@
                   </div>
 
                   <div class="text-center">
-                    <a href="#" class="btn-app mt-2" data-toggle="modal" data-target="#appModal">Заказать сейчас</a>
+                    <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
                   </div>
                 </div>
               </div>
@@ -739,7 +739,7 @@
               <div class="fz-38 fw-bold white">5900〒</div>
 
                 <div class="text-center-">
-                  <a href="#" class="btn-app mt-2" data-toggle="modal" data-target="#appModal">Заказать сейчас</a>
+                  <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
                 </div>
             </div>
           </div>
