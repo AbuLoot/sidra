@@ -49,7 +49,7 @@
                   <a href="/">
                     <img src="/images/sidra/logo.png" alt="Sidra" class="main-logo">
                   </a>
-                  <h3 class="heading small fz-24 dark"> 100% Натуральный продукт</h3>
+                  <h3 class="heading small fz-24 dark"> Натуральный продукт</h3>
                 </div>
               </div>
               <div class="col-sm-4">
@@ -115,9 +115,9 @@
               <img src="/images/sidra/spoon-epimedyum-text.jpg"  class="img-responsive rounded" alt="" />
             </div>
             <div class="col-sm-5">
-              <h4 class="fw-normal mt-5 lh-30 fz-22">Компания «Biotic» Официальный дилер SIDRA GIDA SANAYI TIC. LTD c торговой маркой «Sidra»  предлагает уникальный рецепт полового здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи.</h4>
+              <h4 class="fw-normal mt-5 lh-30 fz-22">Компания SIDRA GIDA SANAYI TIC. LTD c торговой маркой «Sidra»  предлагает уникальный рецепт полового здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи.</h4>
               <div class="mt-4"></div>
-              <p class="dark">Чрезвычайно сильный афродизиак, повышающий либидо, и полностью состоящий из отборных трав и натуральных ингредиентов с высочайшей биологической ценностью для организма.</p>
+              <p class="dark">Чрезвычайно сильный БАД, повышающий либидо, и полностью состоящий из отборных трав и натуральных ингредиентов с высочайшей биологической ценностью для организма.</p>
             </div>
           </div>
         </div>
@@ -728,7 +728,7 @@
             </div>
             <div class="col-sm-12 col-md-4">
               <h2 class="price-of-paste white">Цена</h2>
-              <p class="white">Благодаря тому что Мы являемся официальным дилером Компании SIDRA GIDA SANAYI TIC. LTD, Мы предлагаем лучшую цену.</p>
+              <p class="white">Мы предлагаем лучшую цену.</p>
               <h4 class="white">Эпимедиумная паста «Sidra»</h4>
               <!-- <ul class="pricing-list">
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Консультация</span></li>
@@ -752,56 +752,18 @@
           <div class="row">
             <div class="col-sm-12 col-lg-6">
               <h3 class="heading fw-normal mt-3 mb-3 text-center">Доставка</h3>
-              <p>Доставка по Казахстану — от 1400 тенге (в зависимости от количества). Доставим до двери.</p>
-              <p>Доставка по городу Алматы — от 500 тенге(в зависимости от количества). Доставим до двери.</p>
+              <p>Доставка по Казахстану — от 1600 тенге (в зависимости от количества). Доставим до двери.</p>
+              <p>Доставка по городу Алматы — от 600 тенге(в зависимости от количества). Доставим до двери.</p>
             </div>
             <div class="col-sm-12 col-lg-6">
               <h3 class="heading fw-normal mt-3 mb-3 text-center">Оптовикам</h3>
-              <p>Торговая компания SapaLife специализируется на продаже высококачественных, натуральных продуктов потребления из Казахстана, Турции.</p>
+              <p>Торговая компания Biotic специализируется на продаже высококачественных, натуральных продуктов потребления из Казахстана, Турции.</p>
               <p>Основным направлением компании является оптовые и розничные продажи препаратов для здоровья, спортивного питания, натуральной пищи, ароматов.</p>
               <p>Приглашаем сотрудничать с нами по регионам. Предлагаем выгодные условия. Обращайтесь к нам и мы ответим на все интересующие вас вопросы.</p>
             </div>
           </div>
         </div>
       </section>
-
-      <!-- APP MODAL -->
-      <div class="modal fade" id="appModal" tabindex="-1" role="dialog" aria-labelledby="appModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="appModalLabel"><i class="fa fa-envelope-o primary-color fz-30"></i></h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body row p-0">
-              <div class="col-lg-6 p-5">
-                <h3 class="heading fw-normal fz-32 mb-1">Заполните форму</h3>
-                <p class="fz-20 dark mb-1">и наш менеджер свяжется с Вами в ближайшее время</p>
-                <div class="contact-form-wrapper">
-                  <form method="post" action="sendmail.php">
-                    <div class="row">
-                      <div class="col-md-12"> 
-                        <input type="text" name="name" placeholder="Введите имя*" minlength="2" maxlength="40" value="" required>
-                      </div>
-                      <div class="col-md-12">
-                        <input type="tel" name="phone" placeholder="Введите номер телефона*" minlength="5" maxlength="20" value="" required>
-                      </div>
-                      <div class="col-md-12">
-                        <button type="submit" class="btn-app mt-3" data-toggle="modal" data-target="#appModal">Отправить</button>
-                      </div>
-                    </div>
-                  </form>
-                </div>
-              </div>
-              <div class="col-lg-6">
-                <img src="images/sidra/bank.png" class="d-block modal-bank-margin mx-auto">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <!-- FAQ -->
       <section class="section pt-10 pb-6">
@@ -885,6 +847,44 @@
         </div>
       </section>
     </main>
+
+    <!-- APP MODAL -->
+    <div class="modal fade" id="appModal" tabindex="-1" role="dialog" aria-labelledby="appModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="appModalLabel"><i class="fa fa-envelope-o primary-color fz-30"></i></h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body row p-0">
+            <div class="col-lg-6 p-5">
+              <h3 class="heading fw-normal fz-32 mb-1">Заполните форму</h3>
+              <p class="fz-20 dark mb-1">и наш менеджер свяжется с Вами в ближайшее время</p>
+              <div class="contact-form-wrapper">
+                <form method="post" action="sendmail.php">
+                  <div class="row">
+                    <div class="col-md-12"> 
+                      <input type="text" name="name" placeholder="Введите имя*" minlength="2" maxlength="40" value="" required>
+                    </div>
+                    <div class="col-md-12">
+                      <input type="tel" name="phone" placeholder="Введите номер телефона*" minlength="5" maxlength="20" value="" required>
+                    </div>
+                    <div class="col-md-12">
+                      <button type="submit" class="btn-app mt-3" data-toggle="modal" data-target="#appModal">Отправить</button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <img src="images/sidra/bank.png" class="d-block modal-bank-margin mx-auto">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!-- MODAL MESSAGE -->
     <div class="modal fade" id="message-status" tabindex="-1" role="dialog">
