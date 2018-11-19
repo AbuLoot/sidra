@@ -40,7 +40,7 @@
 
     <main id="main">
 
-      <header class="bg-header">
+      <header class="bg-header pt-2">
         <div class="section">
           <div class="container">
             <div class="row">
