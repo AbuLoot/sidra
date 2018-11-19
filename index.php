@@ -904,21 +904,45 @@
     <footer class="footer">
       <div class="footer-inner">
         <div class="container">
-          <div class="row">
-            <div class="col-sm-4 col-lg-7 col-md-6">
-              <div class="branding__logo">
-                <a href="./">
-                  <img src="/images/sidra/logo.png" alt="Moody" class="main-logo" />
-                </a>
+          <div class="row  pb-6">
+            <div class="col-md-12">
+              <div class="text-center">
+                <h2 class="white">Свяжитесь с нами</h2>
+                <div class="mb-2"></div>
+                <div class="branding__logo">
+                  <a href="./">
+                    <img src="/images/sidra/logo.png" alt="Moody" class="main-logo" />
+                  </a>
+                </div>
+                <div class="mb-2"></div>
               </div>
-              <div class="mb-4"></div>
-              <p>Адрес: Республика Казахстан, город Алматы, улица Толе би 286/2, офис 401.</p>
-              <div class="mb-2"></div>
             </div>
-            <div class="col-sm-4 col-lg-7 col-md-6">
-              <div class="phones">
-                <a href="tel:+77759557171" target="_top" data-attr="phone"><i class="fa fa-phone"></i> 8 (775) 955 71 71</a>
-                <a href="whatsapp://send?phone=+77759557171" target="_top" data-attr="whatsapp_call"><i class="fa fa-whatsapp"></i> 8 (775) 955 71 71</a>
+            <div class="col-sm-4">
+              <div class="text-center-xs">
+                <h4 class="white"> Адрес</h4>
+                <div class="mb-3"></div>
+                <p class="fz-22">Республика Казахстан, город Алматы, улица Толе би 286/2, офис 401.</p>
+                <p class="heading fz-22 fw-normal"> <a class="primary-color" href="mailto:info@moody.com">biotic@gmail.com</a></p>
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="text-center-xs">
+                <h4 class="white"> Реквизиты</h4>
+                <div class="mb-3"></div>
+                <p class="fz-22">Компания &laquo;Biotic&raquo;</p>
+                <p>БИН: 880 820 301 961</p>
+                <p>ИИК: KZ1992618026D1071000</p>
+                <p>АО «Казкоммерцбанк» БИК: KZKOKZKX</p>
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="text-center-xs-">
+                <h4 class="white"> Номера телефона</h4>
+                <div class="mb-3"></div>
+                <div class="phones">
+                  <a href="tel:+77759557171" target="_top" data-attr="phone"><i class="fa fa-phone"></i> 8 (775) 955 71 71</a>
+                  <a href="whatsapp://send?phone=+77759557171" target="_top" data-attr="whatsapp_call"><i class="fa fa-whatsapp"></i> 8 (775) 955 71 71</a>
+                </div>
               </div>
             </div>
           </div>
@@ -931,7 +955,7 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-6">
-              <p class="mb-0"> Сайт зарезервирован компанией SapaLife</p>
+              <p class="mb-0"> Сайт зарезервирован компанией &laquo;Biotic&raquo;</p>
             </div>
             <div class="col-sm-6">
               <div class="text-right text-center-sm">
