@@ -937,7 +937,7 @@
             </div>
             <div class="col-sm-4">
               <div class="text-center-xs">
-                <h4 class="white mt-3"> Номера телефона</h4>
+                <h4 class="white mt-3"> Номера телефонов</h4>
                 <div class="mb-3"></div>
                 <div class="phones mx-auto">
                   <a href="tel:+77759557171" target="_top" data-attr="phone"><i class="fa fa-phone"></i> 8 (775) 955 71 71</a>
