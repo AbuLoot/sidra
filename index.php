@@ -922,7 +922,7 @@
                 <h4 class="white mt-3"> Адрес</h4>
                 <div class="mb-3"></div>
                 <p class="fz-22">Республика Казахстан, город Алматы, улица Толе би 286/2, офис 401.</p>
-                <p class="heading fz-22 fw-normal"> <a class="primary-color" href="mailto:info@moody.com">biotic@gmail.com</a></p>
+                <p class="heading fz-22 fw-normal"> <a class="primary-color" href="mailto:info@moody.com">info@sidra.kz</a></p>
               </div>
             </div>
             <div class="col-sm-4">
