@@ -919,7 +919,7 @@
             </div>
             <div class="col-sm-4">
               <div class="text-center-xs">
-                <h4 class="white"> Адрес</h4>
+                <h4 class="white mt-3"> Адрес</h4>
                 <div class="mb-3"></div>
                 <p class="fz-22">Республика Казахстан, город Алматы, улица Толе би 286/2, офис 401.</p>
                 <p class="heading fz-22 fw-normal"> <a class="primary-color" href="mailto:info@moody.com">biotic@gmail.com</a></p>
@@ -927,7 +927,7 @@
             </div>
             <div class="col-sm-4">
               <div class="text-center-xs">
-                <h4 class="white"> Реквизиты</h4>
+                <h4 class="white mt-3"> Реквизиты</h4>
                 <div class="mb-3"></div>
                 <p class="fz-22">Компания &laquo;Biotic&raquo;</p>
                 <p>БИН: 880 820 301 961</p>
@@ -936,10 +936,10 @@
               </div>
             </div>
             <div class="col-sm-4">
-              <div class="text-center-xs-">
-                <h4 class="white"> Номера телефона</h4>
+              <div class="text-center-xs">
+                <h4 class="white mt-3"> Номера телефона</h4>
                 <div class="mb-3"></div>
-                <div class="phones">
+                <div class="phones mx-auto">
                   <a href="tel:+77759557171" target="_top" data-attr="phone"><i class="fa fa-phone"></i> 8 (775) 955 71 71</a>
                   <a href="whatsapp://send?phone=+77759557171" target="_top" data-attr="whatsapp_call"><i class="fa fa-whatsapp"></i> 8 (775) 955 71 71</a>
                 </div>
