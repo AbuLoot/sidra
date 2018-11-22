@@ -662,7 +662,7 @@
                 <li class="list__item">
                   <div class="list__header">
                     <div class="list__marker primary-color"></div>
-                    <div class="list__heading">Для тех, кто проводит курс лечения принимать ежедневно по пол чайной ложки один раз в день.</div>
+                    <div class="list__heading">Для тех, кто проводит курс лечения принимать ежедневно по пол чайной ложки два раза в день.</div>
                   </div>
                 </li>
               
