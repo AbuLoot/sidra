@@ -68,7 +68,7 @@
             <div class="row header-main-content" -style=" background-color: #000;">
               <div class="col-sm-6">
                 <h3 class="heading white text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
-                <p class="white fz-20 lh-24 ls-1" style="text-shadow: 1px 1px 20px #000;">Уникальный рецепт половой силы и здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи.</p>
+                <p class="white fz-20 lh-24 ls-1" style="text-shadow: 1px 1px 20px #000;">Уникальный рецепт половой силы и здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи</p>
                 <br>
                 <!-- <h3 class="heading white header-price fz-60 "> <s class="fz-50 red">6900〒</s> &nbsp;</h3> -->
               </div>
@@ -649,7 +649,7 @@
                 <li class="list__item">
                   <div class="list__header">
                     <div class="list__marker primary-color"></div>
-                    <div class="list__heading">Перед каждым употреблением обязательно перемешивать содержимое в банке. Рекомендуется использовать деревянную или пластиковую ложку. Желательно употреблять через час после еды</div>
+                    <div class="list__heading">Перед каждым употреблением обязательно перемешивать содержимое в банке. Рекомендуется использовать деревянную или пластиковую ложку. Желательно употреблять через час после еды.</div>
                   </div>
                 </li>
               
@@ -670,7 +670,7 @@
                 <li class="list__item">
                   <div class="list__header">
                     <div class="list__marker primary-color"></div>
-                    <div class="list__heading">Для повышения сексуального либидо принимать за 30-40 минут до полового акта</div>
+                    <div class="list__heading">Для повышения сексуального либидо принимать за 30-40 минут до полового акта.</div>
                   </div>
                 </li>
               
@@ -729,7 +729,7 @@
             </div>
             <div class="col-sm-12 col-md-4">
               <h2 class="price-of-paste white">Цена</h2>
-              <p class="white">Мы предлагаем лучшую цену.</p>
+              <p class="white">Мы предлагаем лучшую цену</p>
               <h4 class="white">Эпимедиумная паста «Sidra»</h4>
               <!-- <ul class="pricing-list">
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Консультация</span></li>
@@ -753,7 +753,7 @@
           <div class="row">
             <div class="col-sm-12 col-lg-6">
               <h3 class="heading fw-normal mt-3 mb-3 text-center">Доставка</h3>
-              <p>Доставка по Казахстану — от 1600 тенге (в зависимости от количества). Доставим до двери.</p>
+              <p>Доставка по Казахстану — 1600 тенге (в зависимости от количества). Доставим до двери.</p>
               <p>Доставка по городу Алматы — от 600 тенге(в зависимости от количества). Доставим до двери.</p>
             </div>
             <div class="col-sm-12 col-lg-6">
