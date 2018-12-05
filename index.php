@@ -65,11 +65,12 @@
                 </div>
               </div>
             </div>
-            <div class="row header-main-content">
+            <div class="row header-main-content" -style=" background-color: #000;">
               <div class="col-sm-6">
                 <h3 class="heading white text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
-                <p class="white fz-20 lh-22" style="text-shadow: 1px 1px 15px #15270e; font-weight: bold;">Уникальный рецепт половой силы и здоровья для мужчин и женщин</p>
-                <h3 class="heading white header-price fz-60 "> <!-- <s class="fz-50 red">6900〒</s> --> &nbsp;</h3>
+                <p class="white fz-20 lh-24 ls-1" style="text-shadow: 1px 1px 20px #000;">Уникальный рецепт половой силы и здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи.</p>
+                <br>
+                <!-- <h3 class="heading white header-price fz-60 "> <s class="fz-50 red">6900〒</s> &nbsp;</h3> -->
               </div>
               <div class="col-sm-6">
                 <img src="/images/sidra/paste-bank.png" class="paste-bank">
@@ -108,7 +109,7 @@
       </div>
 
       <!-- ABOUT -->
-      <section class="section section-about">
+      <!-- <section class="section section-about">
         <div class="container">
           <div class="row">
             <div class="offset-sm-1 col-sm-5">
@@ -121,7 +122,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- FOR MAN -->
       <section class="section section-bg-man">
@@ -161,7 +162,7 @@
                             <i class="fa fa-check"></i>
                           </div>
                           <div class="moody-list__heading">
-                            <p class="moody-list__title fz-18 white">Обостряет чувствительность</p>
+                            <p class="moody-list__title fz-18 white">Оздоравливает состояние мочеполовой системы, особенно почек и простаты (предстательной железы)</p>
                           </div>
                         </div>
                       </li>
@@ -171,7 +172,7 @@
                             <i class="fa fa-check"></i>
                           </div>
                           <div class="moody-list__heading">
-                            <p class="moody-list__title fz-18 white">Усиливает сексуальное желание и наслаждение</p>
+                            <p class="moody-list__title fz-18 white">Обостряет чувствительность</p>
                           </div>
                         </div>
                       </li>
@@ -195,7 +196,7 @@
                             <i class="fa fa-check"></i>
                           </div>
                           <div class="moody-list__heading">
-                            <p class="moody-list__title fz-18 white">Увеличивает количество сперматозоидов, увеличивает их подвижность и плостность спермы</p>
+                            <p class="moody-list__title fz-18 white">Усиливает сексуальное желание и наслаждение</p>
                           </div>
                         </div>
                       </li>
@@ -205,7 +206,7 @@
                             <i class="fa fa-check"></i>
                           </div>
                           <div class="moody-list__heading">
-                            <p class="moody-list__title fz-18 white">Оздоравливает состояние мочеполовой системы, особенно почек и простаты (предстательной железы)</p>
+                            <p class="moody-list__title fz-18 white">Увеличивает количество сперматозоидов, увеличивает их подвижность и плостность спермы</p>
                           </div>
                         </div>
                       </li>

@@ -4,6 +4,10 @@
   background-repeat: no-repeat;
   background-position: top center;
 }
+.bg-header > div {
+  /*background: linear-gradient(0deg, rgba(0, 0, 0, 0.27) 0%, rgba(0, 0, 0, 0.4) 25%, rgba(0,0,0,0.014443277310924318) 50%);*/
+  background: linear-gradient(0deg, rgba(43, 21, 58, 0.62) 0%, rgb(40, 20, 53) 25%, rgba(0,0,0,0.014443277310924318) 50%);
+}
 .bg-green {
   background-color: #1b6736;
 }
@@ -14,7 +18,8 @@
   color: #ffed00;
 }
 .header-main-content {
-  padding: 100px 0 220px;
+  /*padding: 100px 0 220px;*/
+  padding: 80px 0 100px;
 }
 .section-custom-padding {
    padding: 80px 0;
@@ -164,6 +169,9 @@
   }
   .section-about {padding: 140px 0 60px; }
 
+  .section-bg-man > div > .row {
+    padding: 270px 0 0;
+  }
   .section-bg-man {
     background-image: url(../images/sidra/sidra-man-mobile.jpg);
     background-position: center left;
@@ -199,13 +207,12 @@
   .section-custom-padding {
     padding: 40px 0;
   }
-  .section-about { padding: 340px 0 60px; }
   .modal-bank-margin {
     margin-top: 30px;
   }
   .section-bg-man {
     background-image: url(../images/sidra/sidra-man-mobile.jpg);
-    background-position: center 300px;
+    background-position: center 480px;
     background-size: 150%;
   }
   .section-bg-woman {
