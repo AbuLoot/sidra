@@ -225,6 +225,7 @@
                 </div>
 
                 <div class="text-center-">
+                  <h3 class="white">Цена 7300<span class="fz-25">〒</span>. Бесплатная доставка!</h3>
                   <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
                 </div>
               </div>
@@ -344,7 +345,8 @@
                   </div>
 
                   <div class="text-center">
-                    <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
+                    <h3 class="text-center">Цена 7300<span class="fz-25">〒</span></h3>
+                    <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Доставить бесплатно</a>
                   </div>
                 </div>
               </div>
@@ -728,20 +730,21 @@
               <img src="/images/sidra/paste-bank-with-shadow.png">
             </div>
             <div class="col-sm-12 col-md-4">
-              <h2 class="price-of-paste white">Цена</h2>
-              <p class="white">Мы предлагаем лучшую цену</p>
-              <h4 class="white">Эпимедиумная паста «Sidra»</h4>
+              <!-- <h2 class="price-of-paste white">Цена</h2> -->
+              <!-- <p class="white">Мы предлагаем лучшую цену</p> -->
+              <h2 class="price-of-paste white">Эпимедиумная паста «Sidra»</h2>
               <!-- <ul class="pricing-list">
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Консультация</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Доставка во все регионы</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Лучшая Цена</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Оригинальный продукт</span></li>
               </ul> -->
-              <div class="fz-38 fw-bold white">5900〒</div>
 
-                <div class="text-center-">
-                  <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
-                </div>
+              <h3 class="white">Цена 7300<span class="fz-25">〒</span><br> Бесплатная доставка!</h3>
+
+              <div class="text-center-">
+                <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
+              </div>
             </div>
           </div>
         </div>
@@ -753,7 +756,7 @@
           <div class="row">
             <div class="col-sm-12 col-lg-6">
               <h3 class="heading fw-normal mt-3 mb-3 text-center">Доставка</h3>
-              <p>Доставка по Казахстану — 1600 тенге (в зависимости от количества). Доставим до двери.</p>
+              <p>Доставка по Казахстану — 1400 тенге (в зависимости от количества). Доставим до двери.</p>
               <p>Доставка по городу Алматы — от 600 тенге(в зависимости от количества). Доставим до двери.</p>
             </div>
             <div class="col-sm-12 col-lg-6">

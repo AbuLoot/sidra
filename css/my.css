@@ -7,6 +7,7 @@
 .bg-header > div {
   /*background: linear-gradient(0deg, rgba(0, 0, 0, 0.27) 0%, rgba(0, 0, 0, 0.4) 25%, rgba(0,0,0,0.014443277310924318) 50%);*/
   background: linear-gradient(0deg, rgba(43, 21, 58, 0.62) 0%, rgb(40, 20, 53) 25%, rgba(0,0,0,0.014443277310924318) 50%);
+  /*background: linear-gradient(0deg, rgba(43, 21, 58, 0.62) 0%, rgb(211, 47, 32, 0.7) 25%, rgba(0,0,0,0.014443277310924318) 50%)*/
 }
 .bg-green {
   background-color: #1b6736;
@@ -37,6 +38,7 @@
 .section-bg-man > div > .row {
   background: rgb(21,14,25);
   background: linear-gradient(90deg, rgba(21,14,25,0.8827906162464986) 0%, rgba(50,24,68,0.8883928571428571) 40%, rgba(218,59,0,0) 90%);
+  /*background: linear-gradient(90deg, rgba(21,14,25,0.8827906162464986) 0%, rgba(211, 47, 32, 0.7) 40%, rgba(218,59,0,0) 90%);*/
 }
 .section-bg-woman {
   background-image: url(../images/sidra/flowers.jpg);
