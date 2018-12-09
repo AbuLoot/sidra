@@ -225,7 +225,7 @@
                 </div>
 
                 <div class="text-center-">
-                  <h3 class="white">Цена 7300<span class="fz-25">〒</span>. Бесплатная доставка!</h3>
+                  <h3 class="white">Цена 7500<span class="fz-25">〒</span>. Бесплатная доставка!</h3>
                   <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
                 </div>
               </div>
@@ -345,7 +345,7 @@
                   </div>
 
                   <div class="text-center">
-                    <h3 class="text-center">Цена 7300<span class="fz-25">〒</span></h3>
+                    <h3 class="text-center">Цена 7500<span class="fz-25">〒</span></h3>
                     <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Доставить бесплатно</a>
                   </div>
                 </div>
@@ -740,7 +740,7 @@
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Оригинальный продукт</span></li>
               </ul> -->
 
-              <h3 class="white">Цена 7300<span class="fz-25">〒</span><br> Бесплатная доставка!</h3>
+              <h3 class="white">Цена 7500<span class="fz-25">〒</span><br> Бесплатная доставка!</h3>
 
               <div class="text-center-">
                 <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
@@ -751,7 +751,7 @@
       </section>
 
       <!-- DELIVERY & WHOLESALERS -->
-      <section class="section box-section-shadow section-custom-padding" id="wholesalers">
+      <!-- <section class="section box-section-shadow section-custom-padding" id="wholesalers">
         <div class="container">
           <div class="row">
             <div class="col-sm-12 col-lg-6">
@@ -767,7 +767,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- FAQ -->
       <section class="section pt-10 pb-6">
@@ -817,7 +817,7 @@
                     </h6>
                   </div>
                   <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                    <div class="accordion-content">Употреблять 2 раза в день, утром и вечером по пол чайной ложки. Перед каждым употреблением нужно размешать содержимое банки.</div>
+                    <div class="accordion-content">Употреблять 1 раза в день, пол чайной ложки. Перед каждым употреблением нужно размешать содержимое банки.</div>
                   </div>
                 </div>
               </div>
