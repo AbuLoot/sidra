@@ -8,6 +8,7 @@
   /*background: linear-gradient(0deg, rgba(0, 0, 0, 0.27) 0%, rgba(0, 0, 0, 0.4) 25%, rgba(0,0,0,0.014443277310924318) 50%);*/
   background: linear-gradient(0deg, rgba(43, 21, 58, 0.62) 0%, rgb(40, 20, 53) 25%, rgba(0,0,0,0.014443277310924318) 50%);
   /*background: linear-gradient(0deg, rgba(43, 21, 58, 0.62) 0%, rgb(211, 47, 32, 0.7) 25%, rgba(0,0,0,0.014443277310924318) 50%)*/
+ padding-bottom: 30px;
 }
 .bg-green {
   background-color: #1b6736;
@@ -100,6 +101,26 @@
     box-shadow: 0 0 30px rgba(170, 170, 170, 0.2);
 }
 
+
+/* BG-PRICE */
+.bg-price {
+  color: #000;
+  padding: 0px 0 50px;
+  background-color: #1b6736;
+  background-image: url(../images/sidra/background-1900.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-price .bank-of-paste {
+  margin-top: 220px;
+}
+.bg-price .price-of-paste {
+  margin-top: 270px;
+}
+.bg-price h2,
+.bg-price h3 {
+  color: #000;
+}
 
 /* Buttons */
 .btn-app {
@@ -203,7 +224,7 @@
   .header-title {font-size: 36px; }
   .header-price > s {display: none; }
   .made-in-turkey {
-      bottom: -340px;
+      bottom: -380px;
       left: 50%;
   }
   .section-custom-padding {
@@ -221,6 +242,17 @@
     background-image: url(../images/sidra/flowers-mobile.jpg);
     background-position:  center 300px;
     background-size: 200%;
+  }
+  .bg-price .bank-of-paste {
+    margin-top: 40px;
+  }
+  .bg-price .price-of-paste {
+    margin-top: 40px;
+  }
+  .bg-price,
+  .bg-price h2,
+  .bg-price h3 {
+    color: #fff;
   }
   .order-xs-1 {
     -ms-flex-order:1;

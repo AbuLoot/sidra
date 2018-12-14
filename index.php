@@ -68,7 +68,7 @@
             <div class="row header-main-content" -style=" background-color: #000;">
               <div class="col-sm-6">
                 <h3 class="heading white text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
-                <p class="white fz-20 lh-24 ls-1" style="text-shadow: 1px 1px 20px #000;">Уникальный рецепт половой силы и здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи</p>
+                <p class="white fz-20 lh-24 ls-1 mt-2" style="text-shadow: 1px 1px 20px #000;">Уникальный рецепт половой силы и здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи</p>
                 <br>
                 <!-- <h3 class="heading white header-price fz-60 "> <s class="fz-50 red">6900〒</s> &nbsp;</h3> -->
               </div>
@@ -225,7 +225,8 @@
                 </div>
 
                 <div class="text-center-">
-                  <h3 class="white">Цена 7500<span class="fz-25">〒</span>. Бесплатная доставка!</h3>
+                  <h3 class="white">Цена 7900<span class="fz-25">〒</span>. Бесплатная доставка!</h3>
+                  <p class="white">Доставка <span class="fz-24 badge badge-warning">1-2 дня</span> во все регионы Казахстана</p>
                   <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
                 </div>
               </div>
@@ -345,7 +346,8 @@
                   </div>
 
                   <div class="text-center">
-                    <h3 class="text-center">Цена 7500<span class="fz-25">〒</span></h3>
+                    <h3>Цена 7900<span class="fz-25">〒</span></h3>
+                    <p class="fz-18 dark">Доставка <span class="fz-24 badge badge-warning">1-2 дня</span> по Казахстану</p>
                     <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Доставить бесплатно</a>
                   </div>
                 </div>
@@ -723,25 +725,22 @@
       </section>
 
       <!-- PRICE -->
-      <section class="section bg-green section-custom-padding">
+      <section class="section bg-price">
         <div class="container">
           <div class="row">
-            <div class="col-sm-12 col-md-6">
-              <img src="/images/sidra/paste-bank-with-shadow.png">
+            <div class="col-sm-12 col-md-6 order-xs-2">
+              <img src="/images/sidra/paste-bank.png" class="bank-of-paste">
             </div>
-            <div class="col-sm-12 col-md-4">
-              <!-- <h2 class="price-of-paste white">Цена</h2> -->
-              <!-- <p class="white">Мы предлагаем лучшую цену</p> -->
-              <h2 class="price-of-paste white">Эпимедиумная паста «Sidra»</h2>
+            <div class="col-sm-12 col-md-4 order-xs-1">
+              <h2 class="price-of-paste">Эпимедиумная паста «Sidra»</h2>
               <!-- <ul class="pricing-list">
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Консультация</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Доставка во все регионы</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Лучшая Цена</span></li>
                 <li><i class="fa fa-check  primary-color"></i> <span class="m-1">Оригинальный продукт</span></li>
               </ul> -->
-
-              <h3 class="white">Цена 7500<span class="fz-25">〒</span><br> Бесплатная доставка!</h3>
-
+              <h3>Цена 7900<span class="fz-25">〒</span><br> Бесплатная доставка!</h3>
+              <p class="fz-18">Доставка <span class="fz-24 badge badge-warning">1-2 дня</span> по Казахстану</p>
               <div class="text-center-">
                 <a href="#" class="btn-app btn-app-p mt-2" data-toggle="modal" data-target="#appModal">Заказать</a>
               </div>
@@ -933,10 +932,11 @@
               <div class="text-center-xs">
                 <h4 class="white mt-3"> Реквизиты</h4>
                 <div class="mb-3"></div>
-                <p class="fz-22">Компания &laquo;Biotic&raquo;</p>
-                <p>БИН: 880 820 301 961</p>
-                <p>ИИК: KZ1992618026D1071000</p>
-                <p>АО «Казкоммерцбанк» БИК: KZKOKZKX</p>
+                <p class="fz-22">Компания &laquo;Biotic&raquo; - ТОО "AbuSport"</p>
+                <p>БИН: 170 440 007 536</p>
+                <p>ИИК: KZ139470398991749916 (тенге),<br>
+                  ИИК: KZ919470643000346735 (рубль)</p>
+                <p>АО ДБ «Альфа-Банк» г. Алматы<br> БИК банка ALFAKZKA</p>
               </div>
             </div>
             <div class="col-sm-4">
