@@ -68,7 +68,7 @@
             <div class="row header-main-content" -style=" background-color: #000;">
               <div class="col-sm-6">
                 <h3 class="heading white text-uppercase header-title"> Эпимедиумная<br> Паста</h3>
-                <p class="white fz-20 lh-24 ls-1 mt-2" style="text-shadow: 1px 1px 20px #000;">Уникальный рецепт половой силы и здоровья для мужчин и женщин, сохранившийся со времен рассвета Османской Империи</p>
+                <p class="white fz-20 lh-24 ls-1 mt-2" style="text-shadow: 1px 1px 20px #000;">Уникальный рецепт половой силы и здоровья для мужчин и женщин</p>
                 <br>
                 <!-- <h3 class="heading white header-price fz-60 "> <s class="fz-50 red">6900〒</s> &nbsp;</h3> -->
               </div>
